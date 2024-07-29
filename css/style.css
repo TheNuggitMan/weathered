@@ -1,0 +1,44 @@
+body {
+	display:grid;
+	place-items:center;
+	background-color: #D2E4F4
+}
+
+h1,p {
+	text-align: center;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+p {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.merriweather-black {
+  font-family: "Merriweather", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+#searchBox button {
+	/*background:lightblue;*/
+}
+
+.results {
+	border:1px solid #3e3e3e;
+	border-radius: 10px;
+	padding:5px;
+	background:#C3F0F7;
+	cursor: pointer;
+	transition: 0.2s;
+}
+
+.results:hover {
+	background: #B9E2FF
+}
