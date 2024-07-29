@@ -10,10 +10,11 @@ Task List
 ---------
 - [X] Make a basic page that accepts user input and gives weather data to page
 - [ ] Give error if input is not valid place-name
+- [ ] Round temperature number to nearest .5
 - [ ] Show Icon based on the type of weather (i.e rain, sun, cloud) 
-- [ ] Show week long forecas
+- [ ] Show week long forecast
 - [ ] Add ability to change from C to F
-- [ ] Style the site much better!
+- [ ] Style the site - make it pretty!
 
 Languages
 ---------
