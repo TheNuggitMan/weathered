@@ -12,7 +12,7 @@ Task List
 - [ ] Give error if input is not valid place-name
 - [ ] Show Icon based on the type of weather (i.e rain, sun, cloud) 
 - [ ] Show week long forecas
-- [ ] Add ability to change from C to F
+- [ ] Add ability to change from C&#176 to F&#176
 - [ ] Style the site much better!
 
 Languages
