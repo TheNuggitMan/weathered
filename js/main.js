@@ -10,7 +10,7 @@ https://api.openweathermap.org/data/3.0/onecall?lat={lat}&lon={lon}&exclude={par
 */
 function getLocation() {
 	let location = document.getElementById('location').value;
-	fetch(`http://api.openweathermap.org/geo/1.0/direct?q=${location}&limit=3&appid=${APIKEY}`)
+	fetch(`https://api.openweathermap.org/geo/1.0/direct?q=${location}&limit=3&appid=${APIKEY}`)
 	.then(function(res) {
 		return res.json();
 	})
