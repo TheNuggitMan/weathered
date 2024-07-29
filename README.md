@@ -8,7 +8,9 @@ See it live:
 
 Task List
 ---------
-- [X] Make a basic page that accepts user input and gives weather data to page
+- [X] Create OpenWeather account and test the API
+- [X] Use JS to create div element on page in which to place the retreived data
+- [X] Accept user input to choose a town/city to check weather in
 - [ ] Give error if input is not valid place-name
 - [ ] Round temperature number to nearest .5
 - [ ] Show Icon based on the type of weather (i.e rain, sun, cloud) 
