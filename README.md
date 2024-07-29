@@ -2,6 +2,10 @@ weathered
 =========
 Weather app that uses openWeather to pull data for the location specified from the user.
 
+See it live:
+[weathered](https://thenuggitman.github.io/weathered/)
+
+
 Task List
 ---------
 - [X] Make a basic page that accepts user input and gives weather data to page
