@@ -10,7 +10,8 @@ Task List
 ---------
 - [X] Make a basic page that accepts user input and gives weather data to page
 - [ ] Give error if input is not valid place-name
-- [ ] Show week long forecast
+- [ ] Show Icon based on the type of weather (i.e rain, sun, cloud) 
+- [ ] Show week long forecas
 - [ ] Add ability to change from C to F
 - [ ] Style the site much better!
 
